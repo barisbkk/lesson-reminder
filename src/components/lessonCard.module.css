@@ -1,0 +1,29 @@
+.img {
+  width: 8rem;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 70%;
+  gap: 5rem;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.438);
+  border-radius: 2rem;
+  padding: 2rem;
+  
+}
+
+.inner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.p{
+  margin-left: 1rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+}

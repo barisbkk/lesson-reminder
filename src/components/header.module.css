@@ -1,0 +1,32 @@
+.header {
+  font-family: "Permanent Marker", cursive;
+  text-align: center;
+  font-size: 3rem;
+  animation: topic 5s ease-in-out infinite;
+}
+
+@keyframes topic {
+  0% {
+    color: black;
+  }
+
+  25% {
+    color: green;
+  }
+
+  50% {
+    color: red;
+  }
+
+  75% {
+    color: purple;
+  }
+
+  100% {
+    color: black;
+  }
+}
+
+.container {
+  padding: 2rem;
+}
