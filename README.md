@@ -5,7 +5,7 @@
 ## About Project
 
 <p>This is the first React.js project that i made for practising initializing a React project, understanding the folder structure and understanding the usage of module CSS.</p>
-<p><b>What technologies and topics were studied in this project?</b></p>
+<p><b>What technologies and topics were used in this project?</b></p>
 <ul>
     <li>React.js</li>
     <li>Basic Javascript</li>
